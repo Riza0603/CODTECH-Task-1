@@ -1,11 +1,14 @@
-Project Name: To-Do List
-Name: Mohammed Riza
-ID: CT08DS2376
-Company: CODTECH IT SOLUTIONS
-Domain: Web Development
-Duration: June - July 2024
-Mentor: MUZAMMIL
+# CODTECH-Task1 
 
+
+* **Project Name:** To-Do List
+* **Name:** Mohammed Riza
+* **ID:** CT08DS2376
+* **Company:** CODTECH IT SOLUTIONS
+* **Domain:** Web Development
+* **Duration:** June - July 2024
+* **Mentor:** MUZAMMIL
+  
 # Overview of the project
 
 
