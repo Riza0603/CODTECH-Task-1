@@ -7,7 +7,7 @@
 * **Company:** CODTECH IT SOLUTIONS
 * **Domain:** Web Development
 * **Duration:** June - July 2024
-* **Mentor:** MUZAMMIL
+* **Mentor:** Santhosh Kumar 
   
 # Overview of the project
 ![Screenshot 2024-07-09 175056](https://github.com/Riza0603/CODTECH-Task-1/assets/128140883/1e53470f-a2eb-4f70-88dc-c362c41b8288)
